@@ -119,5 +119,5 @@ end;
 procedure DeinitializeSetup();
 begin
   MsgBox('Installation complete. For source code and updates visit:'#13#10 +
-         'https://github.com/YourGithubUsername/YourRepo', mbInformation, MB_OK);
+         'https://github.com/Nav-one/dzScript', mbInformation, MB_OK);
 end;
