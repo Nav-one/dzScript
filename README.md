@@ -11,7 +11,7 @@ A shitty script to get PowerColor DevilZone to work in tandem with OpenRGB
 4. Oh and I have a PowerColor 5700XT GPU - unsupported by OpenRGB.
 
 So I made this script that loads an OpenRGB profile with all the lights off + opens DevilZone and sets the color to black. 
-Press the button again to turn it all on via another OpenRGB profile - Fancy stuff!
+Press the button again to turn it all on via another OpenRGB profile - fancy stuff!
 
 You will have to use Window Spy and set the mouse position for where the Red value is in DevilZone and the Apply button. You will also have to add G and B values and mouse positions if you dont want it to be red.
 
