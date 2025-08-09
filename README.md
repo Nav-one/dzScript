@@ -20,3 +20,9 @@ You will have to use Window Spy and set the mouse position for where the Red val
 Do NOT Download the latest installer and binaries from the [Releases page](https://github.com/Nav-one/dzScript/releases) !
 
 I am not sure if this even works yet.
+
+
+## Notes
+
+You'll have to open the script as an Administrator and create some actions with Task Scheduler for this to work.
+If you look at the code you could probably figure it out, i'll write the tutorial tomorrow or something. 
