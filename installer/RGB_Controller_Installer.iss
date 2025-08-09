@@ -108,7 +108,7 @@ begin
       InstallDevilZone();
   end;
 
-  // Create scheduled tasks with your exact paths and parameters
+  // Create scheduled tasks
 
   CreateScheduledTask('DevilZoneElevated', 'C:\Program Files (x86)\PowerColor DevilZone\DevilZone.exe', '');
 
