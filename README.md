@@ -28,7 +28,7 @@ I spent around 2 hours on this + the installer to save me 3 seconds a night, mea
 
 
 
-You'll have to open the script as administrator and create some actions with Task Scheduler for this to work without all the annoying UAC popups.
+You'll have to run the script as administrator and create some actions with Task Scheduler for this to work without all the annoying UAC popups.
 
 If you look at the code you could probably figure it out, maybe not. I'll write the tutorial some other time lol
 
