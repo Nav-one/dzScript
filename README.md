@@ -6,7 +6,7 @@ a shitty script + installer to get PowerColor DevilZone to work in tandem with O
 ## Why I made this
 
 1. My PC is real bright.
-2. I want to leave my PC running overnight to seed stuff.
+2. I want to leave my PC running overnight for various reasons.
 3. I want to save about 3 seconds by just pressing a button to turn off all the RGB instead of opening OpenRGB manually.
 4. Oh and I have a PowerColor 5700XT GPU - unsupported by OpenRGB.
 
