@@ -25,6 +25,6 @@ I am not sure if this even works yet.
 ## Notes
 
 You'll have to open the script as administrator and create some actions with Task Scheduler for this to work without all the annoying UAC popups.
-If you look at the code you could probably figure it out. 
 
-I'll write the tutorial tomorrow or something lol
+If you look at the code you could probably figure it out, maybe not. I'll write the tutorial some other time lol
+
