@@ -1,4 +1,4 @@
-# dzScript - - Coming Soon!
+# dzScript
 a shitty script + installer to get PowerColor DevilZone to work in tandem with OpenRGB
 
 ## Story
