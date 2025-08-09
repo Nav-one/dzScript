@@ -1,5 +1,5 @@
 # dzScript
-a shitty script + installer to get PowerColor DevilZone to work in tandem with OpenRGB
+A shitty script + installer to get PowerColor DevilZone to work in tandem with OpenRGB
 
 **Do yourself a favor and just download the AHK file** if you are one of the 4 people on earth this script may help - the installer is just me having fun and figuring out how to make one.
 
