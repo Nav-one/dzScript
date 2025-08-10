@@ -43,14 +43,14 @@ Pause::
 	WinRestore, PowerColor RGB
 	WinActivate, PowerColor RGB
         WinWaitActive, PowerColor RGB
-        Sleep, 50
+        Sleep, 1
 
         ; Set GPU color to 0 0 0
         Click, 1049, 227, 2  ; R
         Send, 0
         Sleep, 50
         Click, 604, 658  ; Apply
-        Sleep, 50
+        Sleep, 1
 
         FileDelete, %stateFile%
         FileAppend, OFF, %stateFile%
