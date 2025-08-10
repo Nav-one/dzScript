@@ -38,7 +38,7 @@ Pause::
     } else {
         ; === Switch to NIGHT MODE ===
         Run, %openrgbPath% --server --profile "All Off"
-        Sleep, 50
+        Sleep, 1
         Run, schtasks /run /tn "DevilZoneElevated", , Hide
 	WinRestore, PowerColor RGB
 	WinActivate, PowerColor RGB
