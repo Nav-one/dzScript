@@ -24,7 +24,7 @@ I am not sure if this even works yet.
 
 ## Notes
 
-So far, i've spent around 4 hours on this + the installer to save me 1 second a night, meaning this project will break even in roughly 39.5 years.
+So far, i've spent around 4 hours on this + the installer to save me 14 seconds a night, meaning this project will break even in roughly 4 years.
 
 
 
